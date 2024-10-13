@@ -1,0 +1,8 @@
+flask
+Jinja2
+pytest
+pyyaml
+google-cloud-aiplatform>=1.59.0
+google-cloud-logging
+firebase-admin
+langchain-google-vertexai>=1.0.7
